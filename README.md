@@ -18,7 +18,21 @@ vicboma:Documents vicboma$>  brew install gradle
 or
 vicboma:Documents vicboma$>  brew upgrate gradle
 
-$> gradle -v
+vicboma:Documents vicboma$> gradle -v
+
+------------------------------------------------------------
+Gradle 6.2
+------------------------------------------------------------
+
+Build time:   2020-02-17 08:32:01 UTC
+Revision:     61d3320259a1a0d31519bf208eb13741679a742f
+
+Kotlin:       1.3.61
+Groovy:       2.5.8
+Ant:          Apache Ant(TM) version 1.10.7 compiled on September 1 2019
+JVM:          13.0.2 (Oracle Corporation 13.0.2+8)
+OS:           Mac OS X 10.14.3 x86_64
+
 ```
 
 ### Install apache-zookeeper
@@ -54,3 +68,4 @@ clientPort=2181
 
 vicboma:conf vicboma$> cp zoo_sample.cfg zoo.cfg
 ```
+
