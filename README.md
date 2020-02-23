@@ -69,7 +69,7 @@ clientPort=2181
 vicboma:conf vicboma$> cp zoo_sample.cfg zoo.cfg
 ```
 
-### Start
+### Start Standalone mode
 ```
 vicboma:conf vicboma$> cd ..
 vicboma:apache-zookeeper-3.5.7-bin vicboma$> cd bin
